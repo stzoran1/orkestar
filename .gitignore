@@ -13,3 +13,4 @@
 
 # Local package produced by `npm pack` during launcher verification.
 /*.tgz
+/.idea
